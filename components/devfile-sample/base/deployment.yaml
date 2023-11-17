@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: devfile-sample
   name: devfile-sample
 spec:
-  replicas: 3
+  replicas: 8
   revisionHistoryLimit: 0
   selector:
     matchLabels:
